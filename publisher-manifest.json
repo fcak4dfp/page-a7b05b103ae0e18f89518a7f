@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6c6a051e89029a3341e2d378",
+  "owner": "fcak4dfp",
+  "repo": "page-a7b05b103ae0e18f89518a7f",
+  "title": "GPT中转",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a7b05b103ae0e18f89518a7f",
+      "a": "GPT中转",
+      "b": "",
+      "entity": "GPT中转",
+      "brand": "GPT中转",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9b5732d966c9cfee6b30ab7c4619980f03c03686b5bfad66bcd5b01fa949fb58",
+      "content": {
+        "keyword1": "GPT中转",
+        "keyword2": "",
+        "primary_entity": "GPT中转",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT中转面向跨境访问与远程协作，提供机场订阅、VPN 梯子网络加速和加速器式线路选择，并说明客户端下载、套餐区别与基础使用步骤。",
+          "AI_DESCRIPTION": "GPT中转面向跨境访问与远程协作，提供机场订阅、VPN 梯子网络加速和加速器式线路选择，并说明客户端下载、套餐区别与基础使用步骤。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*,*::before,*::after{box-sizing:border-box}html{scroll-behavior:auto}body{margin:0;font-family:\"PingFang SC\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;font-size:17px;line-height:1.7;color:#102033;background:#f3f8fb}a{color:#0b6e86;text-decoration:none}a:hover{text-decoration:underline}img,svg,video{max-width:100%}.wrap{width:min(1080px,calc(100% - 32px));margin:0 auto}.site-header{background:#071a30;color:#e8f7fb}.site-header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;padding:16px 0}.brand{font-weight:700;letter-spacing:.04em;color:#7ee7f7}.nav{display:flex;flex-wrap:wrap;gap:12px 16px}.nav a{color:#d7f6fb;font-size:15px}.hero{background:linear-gradient(180deg,#071a30 0%,#0c3458 100%);color:#f4fbfe;padding:72px 0 80px}.hero h1{margin:0 0 18px;font-size:clamp(32px,6vw,52px);line-height:1.25;font-weight:750;letter-spacing:.01em}.hero p{margin:0;max-width:40rem;color:#d5eef5;font-size:18px}.hero .actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}.btn{display:inline-block;padding:12px 18px;border-radius:999px;background:#14b8d4;color:#04202a;font-weight:700}.btn.ghost{background:transparent;color:#dff8fd;border:1px solid #7ed8ea}main section{padding:56px 0}h2{margin:0 0 12px;font-size:clamp(26px,4vw,34px);line-height:1.3;color:#071a30}h3{margin:0 0 8px;font-size:20px;color:#0c3458}.lead{margin:0 0 20px;color:#31485d}.grid{display:grid;gap:16px}.grid.three{grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}.card{background:#fff;border:1px solid #d5e4ee;border-radius:16px;padding:18px 18px 16px}.card p,.card li{color:#24384a}.scene-title{color:#0b6e86;font-size:14px;font-weight:700;letter-spacing:.06em}.plans{align-items:stretch}.plan{position:relative;display:flex;flex-direction:column;gap:8px}.plan.featured{border:2px solid #14b8d4;box-shadow:0 10px 30px rgba(12,52,88,.08)}.badge{align-self:flex-start;background:#dff8fd;color:#08596c;border-radius:999px;padding:2px 10px;font-size:13px;font-weight:700}.price{font-size:28px;font-weight:800;color:#071a30}.annual{color:#0b6e86;font-weight:700}.plan ul{margin:8px 0 0;padding-left:18px}.guide ol{margin:0;padding-left:20px}.guide li{margin:8px 0}.download-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}.faq details{background:#fff;border:1px solid #d5e4ee;border-radius:14px;padding:12px 14px;margin:0 0 12px}.faq summary{cursor:pointer;font-weight:700;color:#071a30}.faq details p{margin:8px 0 0}footer{background:#071a30;color:#c5e3ec;padding:28px 0 36px;font-size:14px}footer a{color:#9be7f5}@media(max-width:640px){.hero{padding:56px 0 60px}.site-header .wrap{align-items:flex-start}}</style><header class=\"site-header\"><div class=\"wrap\"><div class=\"brand\">GPT中转</div><nav class=\"nav\" aria-label=\"页面导航\"><a href=\"#about\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐对比</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><section class=\"hero\"><div class=\"wrap\"><h1>GPT中转：机场订阅与 VPN 网络加速</h1><p>在官网了解 GPT中转 的线路定位、套餐流量与设备数，并按步骤完成客户端下载和订阅导入。页面重点对比基础版、旗舰版与团队版，方便按办公、流媒体或团队协作来选择。</p><div class=\"actions\"><a class=\"btn\" href=\"#plans\">查看套餐对比</a><a class=\"btn ghost\" href=\"#download\">官网下载说明</a></div></div></section><section id=\"about\"><div class=\"wrap\"><h2>品牌简介</h2><p class=\"lead\">GPT中转是一项以订阅方式提供的网络加速服务，也可按使用习惯称为机场或 VPN 梯子。它把可用线路整理成节点列表，通过客户端建立加密连接，用来改善跨境访问时的稳定性，而不是替代本地宽带本身。</p><div class=\"grid three\"><article class=\"card\"><h3>订阅而非散装节点</h3><p>开通后获得订阅地址。客户端定期更新节点，无需手动逐条添加。订阅应只保存在自己的设备上。</p></article><article class=\"card\"><h3>按套餐区分能力</h3><p>差异主要在每月极速流量、同时在线设备数、流媒体解锁范围，以及是否包含 IPLC 专线游戏优化和优先支持。</p></article><article class=\"card\"><h3>官网入口只做说明</h3><p>本页链接均为页内锚点，用于阅读套餐与操作说明。实际订阅地址以开通后的用户中心显示为准。</p></article></div></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><p class=\"lead\">先确认访问目标，再选线路类型。普通网页、视频和游戏对延迟、带宽的要求不同，套餐也因此分开。</p><div class=\"grid three\"><article class=\"card\"><p class=\"scene-title\">远程协作</p><h3>跨境办公与资料同步</h3><p>查阅海外文档、参加视频会议或登录协作平台时，可选用稳定的标准节点。团队多人同时在线时，应对照设备数上限，避免账号互相挤下线。</p></article><article class=\"card\"><p class=\"scene-title\">流媒体</p><h3>按解锁范围选择</h3><p>基础版覆盖基础流媒体；旗舰版提供全节点原生流媒体解锁。播放卡顿时先更换同区域节点，再检查是否已用完当月极速流量。</p></article><article class=\"card\"><p class=\"scene-title\">加速器需求</p><h3>低延迟与游戏优化</h3><p>若把服务当作网络加速器使用，旗舰版中的 IPLC 专线游戏加速优化更适合对延迟敏感的场景。团队版则面向更高带宽和定制路由。</p></article></div></div></section><section id=\"plans\"><div class=\"wrap\"><h2>套餐对比</h2><p class=\"lead\">三档均按月计价，并提供年付价格。推荐多数个人用户从旗舰版看起：设备数、流量和线路类型更均衡。价格与权益如下，不含额外评分或用户评价。</p><div class=\"grid three plans\"><article class=\"card plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card plan featured\"><p class=\"badge\">重点推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></div></section><section id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><p class=\"lead\">下面是通用客户端的连接顺序。不同系统的按钮名称可能略有差别，但订阅导入的逻辑相同。</p><div class=\"card guide\"><ol><li>在套餐对比中确定基础版、旗舰版或团队版，并记下月付或年付金额。</li><li>完成开通后，打开用户中心，复制专属订阅地址。不要把该地址公开到论坛或群聊。</li><li>按下一节选择与手机或电脑系统对应的客户端，只从你信任的官方发布渠道安装。</li><li>在客户端中选择“从 URL 导入”或同等入口，粘贴订阅地址并更新节点。</li><li>日常浏览可用普通线路；需要原生流媒体或游戏加速时，改选旗舰版对应节点。连接前确认未超过同时在线设备数。</li><li>若无法连通，先校准设备时间，关闭冲突的本地代理，再更新订阅。仍失败时通过工单说明系统、客户端版本和报错原文。</li></ol></div></div></section><section id=\"download\"><div class=\"wrap\"><h2>客户端下载</h2><p class=\"lead\">GPT中转官网下载指获取可导入订阅的客户端，而不是把节点文件散落在网页附件里。请在本机安装正版客户端后，回到用户中心复制订阅。</p><div class=\"download-list\"><article class=\"card\"><h3>桌面客户端</h3><p>Windows 与 macOS 选择支持系统代理或虚拟网卡的版本。安装后允许其添加本地回环代理，再导入订阅。</p><p><a href=\"#guide\">查看导入步骤</a></p></article><article class=\"card\"><h3>移动客户端</h3><p>iOS 与 Android 需使用与系统匹配的客户端。首次连接时允许 VPN 配置描述文件或网络权限，否则节点列表无法生效。</p><p><a href=\"#faq\">查看权限相关问题</a></p></article><article class=\"card\"><h3>订阅与更新</h3><p>客户端里执行更新后，流量余量、设备数和线路分组会随套餐变化。更换套餐后建议重新复制一次订阅地址。</p><p><a href=\"#plans\">返回套餐对比</a></p></article></div></div></section><section id=\"faq\" class=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><p class=\"lead\">以下回答对应本页介绍的 GPT中转机场订阅、VPN 网络加速和客户端用法。</p><details><summary>GPT中转和普通加速器有什么不同？</summary><p>它以机场订阅交付节点，客户端负责连接。加速器式的体验来自线路选择：普通节点适合浏览，旗舰版的 IPLC 优化更偏向低延迟。它不修改游戏客户端，也不保证某一款游戏一定满速。</p></details><details><summary>流量用完后还会断网吗？</summary><p>套餐中的数字是每月极速流量，例如基础版 100GB、旗舰版 300GB、团队版 1000GB。用尽后极速线路可能降速或暂停，具体以用户中心余量为准。年付只是预付周期，不把 12 个月流量一次性叠加到单月。</p></details><details><summary>同时在线设备如何计算？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。手机、电脑和平板各算一台。超出后新设备可能无法上线，退出旧设备上的客户端即可释放名额。订阅链接共享给他人会占用你的设备数。</p></details><details><summary>基础流媒体和全节点原生解锁有何区别？</summary><p>基础版解锁基础流媒体，适合偶尔观看。旗舰版写明全节点原生流媒体解锁，更换节点后仍保持对应解锁策略。若片源仍提示地区限制，先更新订阅并切换同一服务标明支持的节点，而不是反复开关客户端。</p></details><details><summary>怎样从官网完成客户端下载？</summary><p>本说明页用锚点区分桌面、移动和订阅更新，不附带外部安装包。请在对应系统的正规应用商店或客户端作者发布的官方页面下载，安装后再粘贴 GPT中转用户中心的订阅地址。不要运行来源不明的“一键脚本”。</p></details><details><summary>团队版的定制路由适合谁？</summary><p>适合需要 20 台设备、更高带宽和专属客户经理的小组。企业定制路由用于按域名或网段决定是否走代理，避免把打印机、内网服务也送进隧道。个人如果只是偶尔看视频，旗舰版通常足够。</p></details></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>GPT中转官方网站说明页。使用网络加速、VPN 或机场订阅前，请遵守所在地法律及服务条款。订阅地址、节点质量与工单入口以开通后的账户信息为准。</p><p><a href=\"#about\">返回简介</a> · <a href=\"#plans\">套餐</a> · <a href=\"#download\">客户端下载</a></p></div></footer>",
+          "hash": "0e15dea69f57b9075999eb5dd8e165edc2b972a4cd74af4e0aa4d2c3cf9b6d53",
+          "seo": {
+            "title": "GPT中转官方网站｜机场订阅与 VPN 网络加速客户端下载",
+            "keywords": "GPT中转,GPT中转机场,GPT中转VPN,机场订阅,VPN,梯子,网络加速,加速器,客户端下载,官网下载",
+            "description": "GPT中转面向跨境访问与远程协作，提供机场订阅、VPN 梯子网络加速和加速器式线路选择，并说明客户端下载、套餐区别与基础使用步骤。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shangjiaedu.cn",
+    "host": "p-2cfa426b6f.shangjiaedu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2450910982d3c84e104c1e9c7110aa3215abfc16748a5985eb6157842c9dd916",
+    "sitemap.xml": "2565330ec14421953a63852565c38003c9ce85936dc8ed40837c64c37f34b8a1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "943f5023552e263329528aac9ee6ac4669b525836c965594df8f1410437ae657",
+    "robots.txt": "f32e864fcaf1d9774e9acdc91d924a110cf8994f82d940f98412cf3af34be758",
+    "7aaa79a26d81854ce350ca945920f28f.txt": "878b7f70b231b362df791b65cab95f50089f94c908cfbeb6729eeabd697c934f"
+  },
+  "revision": "cfdceef50d696dbba18c9d31d5b76e4e1bd25f1de47284c34d15c7d6820a5bdc"
+}
